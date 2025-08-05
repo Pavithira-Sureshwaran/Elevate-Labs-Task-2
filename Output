@@ -1,0 +1,119 @@
+*****Student Record Management System*****
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+1
+Enter Student ID :
+101
+Enter Student Name : 
+Pavithra
+Enter Marks: 
+643
+Student Record Added Successfully!
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+1
+Enter Student ID : 
+102
+Enter Student Name : 
+Kumar
+Enter Marks: 
+832
+Student Record Added Successfully!
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+2
+Student Records: 
+ID : 101 Name : Pavithra Marks : 643
+ID : 102 Name : Kumar Marks : 832
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+3 
+Enter Student ID to Update:
+104
+**ID Doesn't Match. Please enter correct student ID!**
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+3
+Enter Student ID to Update:
+101
+Enter new Name: 
+Pavithira
+Enter new marks: 
+892 
+Updated Successfully
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+2
+Student Records: 
+ID : 101 Name : Pavithira Marks : 892
+ID : 102 Name : Kumar Marks : 832
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+4
+Enter Student ID to Delete: 
+105
+***Student ID not Found***
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+4
+Enter Student ID to Delete: 
+102
+Successfully Removed!
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+2
+Student Records: 
+ID : 101 Name : Pavithira Marks : 892
+
+Enter any option
+1. Add Students
+2. View students
+3. Update Students
+4. Delete students
+5. Exit
+5
+Exited
